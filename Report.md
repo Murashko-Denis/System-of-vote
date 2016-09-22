@@ -57,4 +57,4 @@
 3. Избирательная комиссия выдает результаты выборов (кандидат или аннулирование)
 
 # Диаграмма вариантов использования
-![Диаграмма вариантов использования](https://raw.githubusercontent.com/h31/SoftwareArchitecture/master/UseCases.png)
+![Диаграмма вариантов использования](https://github.com/Murashko-Denis/System-of-vote/blob/master/classes.png)
