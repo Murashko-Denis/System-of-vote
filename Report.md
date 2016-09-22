@@ -56,5 +56,8 @@
 2. Избирательная комиссия одобряет кандидата
 3. Избирательная комиссия выдает результаты выборов (кандидат или аннулирование)
 
+# Диаграмма классов
+![Диаграмма классов](https://github.com/Murashko-Denis/System-of-vote/blob/master/classes.png)
+
 # Диаграмма вариантов использования
-![Диаграмма вариантов использования](https://github.com/Murashko-Denis/System-of-vote/blob/master/classes.png)
+![Диаграмма вариантов использования](https://github.com/Murashko-Denis/System-of-vote/blob/master/UseCase.png)
