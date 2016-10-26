@@ -89,4 +89,4 @@
 ![Диаграмма последовательностей](https://github.com/Murashko-Denis/System-of-vote/blob/master/Sequence Diagram2.png)
 
 ##Избирательная комиссия одобряет кандидата и подводит результаты выборов
-![Диаграмма последовательностей](https://github.com/Murashko-Denis/System-of-vote/blob/master/Sequence Diagram1.png)
+![Диаграмма последовательностей](https://github.com/Murashko-Denis/System-of-vote/blob/master/Sequence Diagram3.png)
