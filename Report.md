@@ -74,7 +74,6 @@
  * Избирательная комиссия комиссия нажимает на кнопку Подвести итоги выборов или  кнопку Аннулировать выборы
 
 # Диаграмма классов
-![](https://github.com/Murashko-Denis/System-of-vote)
 ![Диаграмма классов](https://github.com/Murashko-Denis/System-of-vote/blob/master/classes.png) 
 
 # Диаграмма вариантов использования
