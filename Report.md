@@ -64,11 +64,13 @@
 3. Избирательная комиссия подводит итоги выборов (кандидат или аннулирование) 
  * Избирательная комиссия логинится в систему- вводит Номер паспорта, кнопку Войти
  * Избирательная комиссия комиссия нажимает на кнопку "Завершить выборы" или  кнопку "Аннулировать выборы"
-
+ 
+ <!--
 # Диаграмма классов предметной области
-![Диаграмма классов предметной области](https://github.com/Murashko-Denis/System-of-vote/blob/master/classes.png) 
+![Диаграмма классов предметной области](https://github.com/Murashko-Denis/System-of-vote/blob/master/classes.png)-->
+
 # Диаграмма вариантов использования
-![Диаграмма вариантов использования](https://github.com/Murashko-Denis/System-of-vote/blob/master/UseCase.png)
+![Диаграмма вариантов использования](https://github.com/Murashko-Denis/System-of-vote/blob/master/UseCase_new.png)
 
 # Диаграмма классов
 ![Диаграмма классов](https://github.com/Murashko-Denis/System-of-vote/blob/master/ClassDiagram0.png) 
