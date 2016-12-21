@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>SystemOfVote</OriginalElement>
+  <nodes>
+    <node x="1107.4163640032284" y="851.2421307506053">SystemOfVote.Passport</node>
+    <node x="467.48668280871675" y="302.6174334140435">SystemOfVote.VotingSystemLocal</node>
+    <node x="131.6610169491525" y="432.87167070217924">SystemOfVote.StartVoteHandler</node>
+    <node x="1105.3695652173913" y="677.5">SystemOfVote.Voter</node>
+    <node x="456.341606133979" y="648.1041162227604">SystemOfVote.VotingSystem</node>
+    <node x="135.6150121065375" y="312.37530266343833">SystemOfVote.VoteHandler</node>
+    <node x="1299.1863397901532" y="309.37167070217924">SystemOfVote.VoteReg</node>
+    <node x="951.8084272028636" y="322.4092009685229">SystemOfVote.Candidate</node>
+    <node x="1307.3136514369933" y="730.8014527845037">SystemOfVote.ElectionCommission</node>
+    <node x="124.45036319612592" y="572.90799031477">SystemOfVote.DelCandHandler</node>
+    <node x="125.3813559322034" y="719.4576271186442">SystemOfVote.CandHadler</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="SystemOfVote.Voter" target="SystemOfVote.Passport">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.VotingSystem" target="SystemOfVote.VoteReg">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.VotingSystem" target="SystemOfVote.Candidate">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.ElectionCommission" target="SystemOfVote.Candidate">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.DelCandHandler" target="SystemOfVote.Candidate">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.VotingSystem" target="SystemOfVote.ElectionCommission">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.Voter" target="SystemOfVote.VoteReg">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.ElectionCommission" target="SystemOfVote.VoteReg">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.VotingSystem" target="SystemOfVote.Voter">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.CandHadler" target="SystemOfVote.VotingSystemLocal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.VotingSystem" target="SystemOfVote.Passport">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.DelCandHandler" target="SystemOfVote.VotingSystemLocal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.CandHadler" target="SystemOfVote.Candidate">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.VotingSystem" target="SystemOfVote.VotingSystemLocal">
+      <point x="-177.33333333333348" y="-180.5" />
+      <point x="1126.583333333333" y="934.0" />
+      <point x="822.3" y="934.0" />
+      <point x="154.79999999999995" y="136.0" />
+    </edge>
+    <edge source="SystemOfVote.VoteHandler" target="SystemOfVote.Passport">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.VoteHandler" target="SystemOfVote.VotingSystemLocal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.StartVoteHandler" target="SystemOfVote.VotingSystemLocal">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+    <edge source="SystemOfVote.VoteReg" target="SystemOfVote.Candidate">
+      <point x="0.0" y="0.0" />
+      <point x="0.0" y="0.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6404874746106973" x="852.5" y="656.0" />
+  <SelectedNodes>
+    <node>SystemOfVote.Candidate</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
