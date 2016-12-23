@@ -42,11 +42,6 @@
         <servlet-class>SystemOfVote.StartVoteHandler</servlet-class>
     </servlet>
 
-    <servlet>
-        <servlet-name>SystemOfVote.FinishVoteHandler</servlet-name>
-        <servlet-class>SystemOfVote.FinishVoteHandler</servlet-class>
-    </servlet>
-
     <servlet-mapping>
         <servlet-name>SystemOfVote.VoteHandler</servlet-name>
         <url-pattern>/facade</url-pattern>
@@ -67,8 +62,4 @@
         <url-pattern>/facade4</url-pattern>
     </servlet-mapping>
 
-    <servlet-mapping>
-        <servlet-name>SystemOfVote.FinishVoteHandler</servlet-name>
-        <url-pattern>/facade5</url-pattern>
-    </servlet-mapping>
 </web-app>

@@ -79,7 +79,7 @@ public class VoteReg implements Serializable {
         }
         int cnt = 0;
         for (Map.Entry<Candidate, Integer> entry : candCntHm.entrySet()) {
-            if (maxEntry.equals(entry.getValue())) {
+            if (maxEntry.getValue().equals(entry.getValue())) {
                 cnt++;
             }
         }
